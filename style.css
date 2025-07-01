@@ -1,0 +1,32 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    height: 100%;
+}
+
+#canvas {
+    display: block;
+    width: 100%;
+    height: 100%;
+    cursor: crosshair;
+}
+
+#controls {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    background: rgba(255, 255, 255, 0.8);
+    border-radius: 4px;
+    padding: 4px;
+}
+
+#controls button {
+    margin: 2px;
+}
+
+.pin {
+    fill: #333;
+    stroke: white;
+    stroke-width: 2px;
+}
