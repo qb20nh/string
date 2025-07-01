@@ -1,6 +1,6 @@
 # Development TODO
 
-- [ ] Allow string to wrap around pins with proper arc calculation
+- [x] Allow string to wrap around pins with proper arc calculation
 - [ ] Detect and prevent string intersections
 - [ ] Add color gradient controls for string segments
 - [ ] Implement undo/unwrap functionality
