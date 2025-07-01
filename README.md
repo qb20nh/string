@@ -4,7 +4,7 @@ This project is an interactive web application for simulating the winding of a s
 
 ## Current State
 
-This repository currently contains an early prototype of the application. Pins can be placed and moved and basic string segments can be drawn between pins. Advanced geometry for wrapping and intersection detection has not yet been implemented.
+This repository currently contains an early prototype of the application. Pins can be placed and moved and basic string segments can be drawn between pins. Simple circular arcs allow the string to wrap around a single pin. Advanced intersection detection has not yet been implemented.
 
 ## Planned Features
 
